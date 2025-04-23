@@ -37,7 +37,7 @@ This project analyzes a large dataset from a fictional snack retailer "SnackChai
 - `README.md`: This file
 - `requirements.txt`: List of Python packages used
 
-## 🧠 Team Contributions
+## Team 
 
 | Member | Role |
 |--------|------|
@@ -46,7 +46,7 @@ This project analyzes a large dataset from a fictional snack retailer "SnackChai
 | Pooja Radhakrishnan | ML Engineer - modeling, pipelines |
 | Amber Anderson      | Presenter - video editing, final walkthrough |
 
-## 🎥 Final Presentation
+## Final Presentation
 
 Watch the full project walkthrough on [YouTube](#)
 
