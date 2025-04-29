@@ -46,6 +46,8 @@ This project analyzes a large dataset from a fictional snack retailer "SnackChai
 | Pooja Radhakrishnan | ML Engineer - modeling, pipelines |
 | Amber Anderson      | Presenter - video editing, final walkthrough |
 
+## Concul
+
 ## Final Presentation
 
 Watch the full project walkthrough on [YouTube](#)
