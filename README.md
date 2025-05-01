@@ -39,8 +39,8 @@ This project analyzes a large dataset from a fictional snack retailer "SnackChai
 
 ## Team 
 
-| Member | Role |
-|--------|------|
+| Member 
+|--------
 | Penelope Tangamu    
 | Jae-Anne Smith      
 | Pooja Radhakrishnan 
