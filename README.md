@@ -46,11 +46,10 @@ This project analyzes a large dataset from a fictional snack retailer "SnackChai
 | Pooja Radhakrishnan 
 | Amber Anderson      
 
-## Concul
 
 ## Final Presentation
 
-Watch the full project walkthrough on [YouTube](#)
+Watch the full project walkthrough on [[YouTube](https://youtu.be/v41ZokXauB0)](#)
 
 ---
 
