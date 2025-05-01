@@ -41,10 +41,10 @@ This project analyzes a large dataset from a fictional snack retailer "SnackChai
 
 | Member | Role |
 |--------|------|
-| Penelope Tangamu    | Data Engineer - preprocessing, cleaning |
-| Jae-Anne Smith      | Analyst - EDA, SparkSQL |
-| Pooja Radhakrishnan | ML Engineer - modeling, pipelines |
-| Amber Anderson      | Presenter - video editing, final walkthrough |
+| Penelope Tangamu    
+| Jae-Anne Smith      
+| Pooja Radhakrishnan 
+| Amber Anderson      
 
 ## Concul
 
